@@ -26,16 +26,6 @@ An **IoT-enabled smart helmet** that enhances rider safety by integrating **cras
 - **Connectivity**: IoT cloud platform (ThingSpeak / Firebase)  
 - **PCB**: Custom-designed for integrating all modules  
 
----
-
-## ⚙️ System Workflow  
-```mermaid
-flowchart TD
-  A[Crash/Event Detected] --> B[Arduino Nano Processing]
-  B --> C[Sensor Data Collected]
-  C --> D[Cloud Upload (ThingSpeak/Firebase)]
-  D --> E[Real-Time Dashboard + Alerts]
-  E --> F[Emergency Notification to Contacts]
 
 📂 Methodology
 
