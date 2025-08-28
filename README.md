@@ -1,6 +1,5 @@
 # IoT-Smart-Helmet-for-Rider-Safety
 
-# IoT Smart Helmet for Rider Safety  
 
 An **IoT-enabled smart helmet** that enhances rider safety by integrating **crash detection, GPS tracking, health monitoring (pulse & temperature), air-quality sensing, and cloud-based alerts**. This system ensures real-time safety monitoring and emergency response for riders.  
 
